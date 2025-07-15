@@ -1,0 +1,2 @@
+python IDS.py
+pause
